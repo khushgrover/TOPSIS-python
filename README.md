@@ -23,7 +23,7 @@ solution. More details at [wikipedia](https://en.wikipedia.org/wiki/TOPSIS).
 
 ## How to use this package:
 
-TOPSIS-KHUSHNUMA-101703289  can be run as in the following example:
+TOPSIS-101703289-KHUSHNUMA  can be run as in the following example:
 
 
 
