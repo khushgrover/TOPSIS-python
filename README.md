@@ -44,11 +44,11 @@ TOPSIS-Python can be run as in the following example:
 >>> topsis(d,w,im)
 ```
 
-The decision matrix (`a`) should be constructed with each row representing a Model alternative, and each column representing a criterion like Accuracy, R<sup>2</sup>, Root Mean Squared Error, Correlation, and many more.
-
 <br>
 
 ## Sample dataset
+
+The decision matrix (`a`) should be constructed with each row representing a Model alternative, and each column representing a criterion like Accuracy, R<sup>2</sup>, Root Mean Squared Error, Correlation, and many more.
 
 Model | Correlation | R<sup>2</sup> | RMSE | Accuracy
 ------------ | ------------- | ------------ | ------------- | ------------
