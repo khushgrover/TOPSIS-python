@@ -7,7 +7,7 @@ Submitted By: **Khushnuma Grover 101703289**
 
 ***
 pypi: <https://pypi.org/project/topsis-khushnuma-101703289>
-***
+<br>
 git: <https://github.com/khushgrover/topsis-python.git>
 ***
 
@@ -24,6 +24,8 @@ solution. More details at [wikipedia](https://en.wikipedia.org/wiki/TOPSIS).
 ## How to use this package:
 
 TOPSIS-Python can be run as in the following example:
+
+<br>
 
 ### In Command Prompt
 ```
@@ -44,6 +46,7 @@ TOPSIS-Python can be run as in the following example:
 
 The decision matrix (`a`) should be constructed with each row representing a Model alternative, and each column representing a criterion like Accuracy, R<sup>2</sup>, Root Mean Squared Error, Correlation, and many more.
 
+<br>
 
 ## Sample dataset
 
@@ -58,6 +61,8 @@ M5 |	0.75 | 0.56	| 1.3	 | 80.39
 Weights (`w`) is not already normalised will be normalised later in the code.
 
 Information of benefit positive(+) or negative(-) impact criteria should be provided in `I`.
+
+<br>
 
 ## Output
 
