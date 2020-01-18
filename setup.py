@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name="topsis-khushnuma-101703289",
-    version="1.0.0",
+    version="1.0.2",
     description="A Python package implementing TOPSIS technique.",
     long_description=readme(),
     long_description_content_type="text/markdown",
@@ -30,7 +30,7 @@ setup(
      ],
     entry_points={
         "console_scripts": [
-            "topsis-khushnuma-101703289=topsis_python.topsis:main",
+            "topsis=topsis_python.topsis:main",
         ]
     },
 )
