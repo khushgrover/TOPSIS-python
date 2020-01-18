@@ -1,7 +1,8 @@
 # TOPSIS-Python
 ***
-Project 1 : UCS633
-Submitted By: Khushnuma Grover 101703289
+**Project 1 : UCS633**
+<br>
+Submitted By: **Khushnuma Grover 101703289**
 ***
 pypi: <https://pypi.org/project/topsis-khushnuma-101703289>
 ***
@@ -21,9 +22,9 @@ solution. More details at [wikipedia](https://en.wikipedia.org/wiki/TOPSIS).
 TOPSIS-Python can be run as in the following example:
 
 ### In Command Prompt
-
->>> topsis-khushnuma-101703289 data.csv "1,1,1,1" "+,+,-,+"
-
+```
+>> topsis-khushnuma-101703289 data.csv "1,1,1,1" "+,+,-,+"
+```
 ### In Python IDLE:
 ```
 >>> import pandas as pd
