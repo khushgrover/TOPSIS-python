@@ -12,7 +12,7 @@ setup(
     description="A Python package implementing TOPSIS technique.",
     long_description=readme(),
     long_description_content_type="text/markdown",
-    url="https://github.com/khushgrover/topsis-python",
+    url="https://github.com/khushgrover/topsis_khushnuma_101703289",
     author="Khushnuma Grover",
     author_email="khushgrover16@gmail.com",
     license="MIT",
