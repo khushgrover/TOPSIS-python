@@ -1,8 +1,8 @@
 # TOPSIS-Python
-***
-**Project 1 : UCS633**
 <br>
-Submitted By: **Khushnuma Grover 101703289**
+### **Project 1 : UCS633**
+<br>
+### Submitted By: **Khushnuma Grover 101703289**
 ***
 pypi: <https://pypi.org/project/topsis-khushnuma-101703289>
 ***
