@@ -7,7 +7,7 @@ def readme():
 
 setup(
     name="topsis-khushnuma-101703289",
-    version="1.0.3",
+    version="1.0.0",
     description="A Python package implementing TOPSIS technique.",
     long_description=readme(),
     long_description_content_type="text/markdown",
