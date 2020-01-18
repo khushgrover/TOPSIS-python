@@ -6,7 +6,7 @@ def readme():
     return README
 
 setup(
-    name="topsis-khushnuma-101703289",
+    name="topsis-101703289-khushnuma",
     version="1.0.0",
     description="A Python package implementing TOPSIS technique.",
     long_description=readme(),
