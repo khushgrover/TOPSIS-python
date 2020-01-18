@@ -19,6 +19,8 @@ making method. TOPSIS chooses the alternative of shortest Euclidean distance
 from the ideal solution, and greatest distance from the negative-ideal
 solution. More details at [wikipedia](https://en.wikipedia.org/wiki/TOPSIS).
 
+<br>
+
 ## How to use this package:
 
 TOPSIS-Python can be run as in the following example:
@@ -68,5 +70,5 @@ Model   Score    Rank
   4    0.523878    3
   5    0.811389    1
 ```
-
+<br>
 The rankings are displayed in the table, with the 1st rank offering us the best decision, and last rank offering the worst decision making, according to TOPSIS method.
