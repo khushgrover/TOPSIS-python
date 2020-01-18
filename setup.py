@@ -21,7 +21,7 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.7",
     ],
-    packages=["topsis-khushnuma-101703289"],
+    packages=["topsis_python"],
     include_package_data=True,
     install_requires=['scipy',
                       'tabulate',
