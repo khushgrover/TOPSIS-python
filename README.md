@@ -1,7 +1,12 @@
 # TOPSIS-Python
-
+***
+Project 1 : UCS633
+Submitted By: Khushnuma Grover 101703289
+***
 pypi: <https://pypi.org/project/topsis-khushnuma-101703289>
+***
 git: <https://github.com/khushgrover/topsis-python.git>
+***
 
 ## What is TOPSIS
 
@@ -11,15 +16,15 @@ making method. TOPSIS chooses the alternative of shortest Euclidean distance
 from the ideal solution, and greatest distance from the negative-ideal
 solution. More details at [wikipedia](https://en.wikipedia.org/wiki/TOPSIS).
 
-## Using TOPSIS-Python
+## How to use this package:
 
 TOPSIS-Python can be run as in the following example:
 
-## In Command Prompt
+### In Command Prompt
 
 >>> topsis-khushnuma-101703289 data.csv "1,1,1,1" "+,+,-,+"
 
-## In Python IDLE:
+### In Python IDLE:
 ```
 >>> import pandas as pd
 >>> from topsis_python.topsis import topsis
