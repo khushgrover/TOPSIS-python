@@ -1,8 +1,8 @@
 # TOPSIS-Python
 <br>
-### **Project 1 : UCS633**
+**Project 1 : UCS633**
 <br>
-### Submitted By: **Khushnuma Grover 101703289**
+Submitted By: **Khushnuma Grover 101703289**
 ***
 pypi: <https://pypi.org/project/topsis-khushnuma-101703289>
 ***
@@ -25,6 +25,8 @@ TOPSIS-Python can be run as in the following example:
 ```
 >> topsis-khushnuma-101703289 data.csv "1,1,1,1" "+,+,-,+"
 ```
+<br>
+
 ### In Python IDLE:
 ```
 >>> import pandas as pd
@@ -37,6 +39,7 @@ TOPSIS-Python can be run as in the following example:
 ```
 
 The decision matrix (`a`) should be constructed with each row representing a Model alternative, and each column representing a criterion like Accuracy, R<sup>2</sup>, Root Mean Squared Error, Correlation, and many more.
+
 
 ## Sample dataset
 
