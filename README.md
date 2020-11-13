@@ -6,7 +6,7 @@
 Submitted By: **Khushnuma Grover 101703289**
 
 ***
-pypi: <https://pypi.org/project/topsis-khushnuma-101703289>
+pypi: <https://pypi.org/project/topsis-101703289-khushnuma>
 <br>
 git: <https://github.com/khushgrover/topsis-python.git>
 ***
